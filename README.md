@@ -11,7 +11,6 @@ Including:
  * Kotlin Coroutines
  * Retrofit
  * Room
-
 <br/>
 
  ## 🚀 MAD Scorecard
